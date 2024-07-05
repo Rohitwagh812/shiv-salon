@@ -1,0 +1,19 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat, sans-serif' !important;
+}
+
+.app-page{
+    width: 300px !important;
+    height: 100vh;
+}
+
+.app-page .navbar-main{
+    border-bottom: 1px solid #000;
+}
